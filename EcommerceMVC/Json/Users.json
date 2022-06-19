@@ -1,0 +1,70 @@
+﻿[
+  {
+    "Id": "a343b8ba-0466-4a86-9bdd-4d35ee59b1cd",
+    "FirstName": "Abimbola",
+    "LastName": "Olaitan",
+    "Email": "bimbola@gmail.com",
+    "Avatar": "https://this-person-does-not-exist.com/img/avatar-0190a55d7206e5d5f75237c8798e2056.jpg",
+    "Gender": "Female",
+    "Isadmin": true,
+    "Security": {
+      "Id": "36f44590-c660-40b0-9f34-cee4ab4a1365",
+      "BVN": "6375376373673",
+      "NIN": "5628382738278"
+    },
+
+    "Cars": [
+      {
+
+        "Id": "59d2d94c-79bf-4aaa-825e-d84a6b80e168",
+        "Model": "Camry 2020",
+        "PlateNumber": "JJJ234ABJ",
+        "ChasisName": "66356373",
+        "YearOfMan": "2020"
+      },
+      {
+
+        "Id": "922daede-c5ba-48c2-84c4-8b58aae2ddc5",
+        "Model": "Total 2020",
+        "PlateNumber": "AAA234ABJ",
+        "ChasisName": "66356373",
+        "YearOfMan": "2020"
+      }
+    ]
+
+  },
+  {
+    "Id": "d296434c-13bc-4f44-a8d7-4426bf0cbd56",
+    "FirstName": "Chisom",
+    "LastName": "Okon",
+    "Email": "chisom@gmail.com",
+    "Avatar": "https://this-person-does-not-exist.com/img/avatar-137ef5665db16122c57ef4b05bfb7ad5.jpg",
+    "Gender": "Female",
+    "Isadmin": true,
+    "Security": {
+      "Id": "4a2633da-d4b7-4537-a3e0-76e2efb23cf8",
+      "BVN": "63753712344",
+      "NIN": "56283800099"
+    },
+    "Cars": [
+      {
+
+        "Id": "00e165b8-0a45-4e55-bda8-479c258196ab",
+        "Model": "Benz 2020",
+        "PlateNumber": "bbb234ABJ",
+        "ChasisName": "66356373",
+        "YearOfMan": "2020"
+      },
+      {
+
+        "Id": "ac2df452-4d8b-463a-9303-af2321238879",
+        "Model": "Lezus Jeep 2020",
+        "PlateNumber": "SSS234ABJ",
+        "ChasisName": "66356373",
+        "YearOfMan": "2020"
+      }
+    ]
+
+  }
+
+]
